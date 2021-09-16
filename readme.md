@@ -27,4 +27,4 @@ Creating composite functions
 
 ## Why Use a express route for test?
 The idea is test several lodash functions for with arrays to return json.
-Something like a backend needs to do.
+Something like a backend/frontend needs to do.
