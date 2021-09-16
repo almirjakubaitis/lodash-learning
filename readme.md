@@ -24,3 +24,7 @@ Lodash’s modular methods are great for:
 Iterating arrays, objects, & strings
 Manipulating & testing values
 Creating composite functions
+
+## Why Use a express route for test?
+The idea is test several lodash functions for with arrays to return json.
+Something like a backend needs to do.
