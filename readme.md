@@ -3,7 +3,6 @@
 ## Libs:
 - [ ] Nodejs
 - [ ] Lodash
-- [ ] Docker
 ## Libs:
 - [ ] lodash | @types/lodash -D (https://lodash.com/)
 - [ ] babel-plugin-lodash -D
